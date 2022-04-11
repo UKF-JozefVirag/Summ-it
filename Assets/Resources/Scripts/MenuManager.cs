@@ -24,6 +24,10 @@ public class MenuManager : MonoBehaviour
         SceneManager.LoadScene("LevelSelector");
     }
 
+    public void OpenHowToPlay()
+    {
+        SceneManager.LoadScene("HowToPlay");
+    }
 
 
 }

@@ -58,9 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Resources\Scripts\LevelSelector.cs" />
     <Compile Include="Assets\Resources\Scripts\ButtonScript.cs" />
+    <Compile Include="Assets\Resources\Scripts\AudioScript.cs" />
     <Compile Include="Assets\Resources\Scripts\GameManager.cs" />
     <Compile Include="Assets\Resources\Scripts\MenuManager.cs" />
-    <Compile Include="Assets\Resources\Scripts\AudioScript.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
